@@ -6,3 +6,4 @@ Raspbian Jessie Lite (8.0)
     $ sudo apt-get install python3.4 python3-pip
     $ sudo pip3 install -U pip
     $ sudo pip3 install pyserial raumfeld
+    $ sudo apt-get install gcc-avr avrdude
